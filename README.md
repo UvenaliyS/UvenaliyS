@@ -224,10 +224,6 @@ me.say_hi()
  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
-### 🐍 Contribution Snake
- 
-![Snake animation](https://raw.githubusercontent.com/UvenaliyS/UvenaliyS/output/github-contribution-grid-snake-dark.svg)
- 
 ---
  
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
