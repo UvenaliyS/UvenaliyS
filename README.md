@@ -4,7 +4,7 @@
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Backend+Developer;Telegram+Bots+Creator;FastAPI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EineMensch)
 [![GitHub followers](https://img.shields.io/github/followers/UvenaliyS?style=for-the-badge&logo=github)](https://github.com/UvenaliyS)
 [![Profile Views](https://komarev.com/ghpvc/?username=UvenaliyS&style=for-the-badge&color=blueviolet)](https://github.com/UvenaliyS)
  
