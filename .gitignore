@@ -12,6 +12,14 @@ build/
 venv/
 env/
 
+# Node.js
+node_modules/
+package-lock.json
+
+# Temporary files
+uic_decoded.txt
+*.tmp
+
 # IDE
 .vscode/
 .idea/
