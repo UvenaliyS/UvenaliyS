@@ -1,0 +1,19 @@
+# Test files
+test_*.py
+test_*.png
+*.pyc
+__pycache__/
+
+# Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
